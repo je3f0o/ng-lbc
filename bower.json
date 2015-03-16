@@ -1,0 +1,31 @@
+{
+  "name": "lbc",
+  "version": "0.0.0",
+  "authors": [
+    "je3f0o <je3f0o@gmail.com>"
+  ],
+  "description": "Long Binary City libraries and modules for AngularJS applications. When I create an application using some AngularJS modules I noticed there is so many same functionalities duplicated.",
+  "main": "long-binary-city.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "long",
+    "binary",
+    "city",
+    "jeefo"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.14",
+    "angular-mocks": "~1.3.14"
+  }
+}
