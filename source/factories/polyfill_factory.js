@@ -8,7 +8,7 @@ _._._._._._._._._._._._._._._._._._._._._.*/
 
 "use strict";
 
-angular.module("lbc.factories", [])
+angular.module("lbc.factories.polyfill", [])
 	.factory("polyfillFactory", ["$window", function ($window) {
 		var vendors = ["webkit", "moz", "o", "ms"];
 

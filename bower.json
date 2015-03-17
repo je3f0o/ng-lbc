@@ -1,15 +1,16 @@
 {
-  "name": "lbc",
+  "name": "longBinaryCity",
   "version": "0.0.0",
   "authors": [
     "je3f0o <je3f0o@gmail.com>"
   ],
   "description": "Long Binary City libraries and modules for AngularJS applications. When I create an application using some AngularJS modules I noticed there is so many same functionalities duplicated.",
-  "main": "long-binary-city.js",
+  "main": "source/main.js",
   "moduleType": [
     "amd"
   ],
   "keywords": [
+	"lbc",
     "long",
     "binary",
     "city",

@@ -1,13 +1,9 @@
-# llbc [![Build Status](https://secure.travis-ci.org/root/llbc.png?branch=master)](http://travis-ci.org/root/llbc)
 
 The best project ever.
 
 ## Getting Started
-Install the module with: `npm install llbc`
 
 ```javascript
-var llbc = require('llbc');
-llbc.awesome(); // "awesome"
 ```
 
 ## Documentation

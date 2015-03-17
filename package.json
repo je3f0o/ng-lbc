@@ -9,8 +9,8 @@
   "scripts": {
     "test": "grunt test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "je3f0o",
+  "license": "MIT",
   "devDependencies": {
     "grunt-contrib-watch": "^0.6.1",
     "grunt-karma": "^0.10.1",
